@@ -1,0 +1,2 @@
+2017/07/18 08:16:10    10 INFO [main   ] [RConnectionPool] R.RConnectionPool                  - Configuring pool with: file:/D:/MyEclipse/new/theR/WebRoot/WEB-INF/classes/RConnectionPool.xml
+2017/07/18 08:16:11   325 INFO [RConnectionPool-ShutdownHook] [RConnectionPool] R.RConnectionPool$1                - Shutdown hook is closing the pool

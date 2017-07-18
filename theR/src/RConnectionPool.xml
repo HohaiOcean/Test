@@ -1,0 +1,10 @@
+
+<RConnectionPool>  
+    <RConfiguration>  
+
+        <RServer host="localhost"/> 
+        
+    
+    </RConfiguration>  
+</RConnectionPool>  
+
